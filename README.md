@@ -1,4 +1,4 @@
-# Rafael Oliveira
+# Rai Oliveira
 
 Desenvolvedor Web com foco em aplicações Full Stack utilizando React no front-end e Python com Django no back-end.
 
