@@ -1,16 +1,25 @@
-## Hi there 👋
+# Rafael Oliveira
 
-<!--
-**OliveiraRai/oliveirarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web com foco em aplicações Full Stack utilizando React no front-end e Python com Django no back-end.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- JavaScript
+- HTML
+- CSS
+- Python
+- Django
+- PostgreSQL
+- Git
+- GitHub
+
+## Projeto em destaque
+
+### Task Streak Tracker
+Aplicação web desenvolvida para acompanhamento de hábitos e tarefas de longo prazo, utilizando React, Django e PostgreSQL.
+
+## Contato
+
+- LinkedIn: linkedin.com/in/SEUUSER
+- Email: seuemail@email.com
