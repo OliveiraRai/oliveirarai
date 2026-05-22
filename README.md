@@ -21,5 +21,5 @@ Aplicação web desenvolvida para acompanhamento de hábitos e tarefas de longo 
 
 ## Contato
 
-- LinkedIn: linkedin.com/in/SEUUSER
-- Email: seuemail@email.com
+- LinkedIn: linkedin.com/in/rai-oliveira
+- Email: rai.conslog@hotmail.com
