@@ -2,7 +2,7 @@
 
 # Raí Oliveira
 
-**Desenvolvedor Full Stack em formação**
+**Desenvolvedor Full Stack**
 
 Construindo projetos para transformar conhecimento em prática — com atenção à lógica, à qualidade do código e às decisões por trás de cada implementação.
 
