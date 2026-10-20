@@ -14,7 +14,7 @@ Construindo projetos para transformar conhecimento em prática — com atenção
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e venho desenvolvendo projetos para aprofundar meus conhecimentos em desenvolvimento de software, APIs e aplicações web.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e desenvolvo projetos para aprofundar meus conhecimentos em desenvolvimento de software, APIs e aplicações web.
 
 Tenho interesse em compreender o sistema como um todo: da interface e experiência de uso à lógica de negócio, persistência de dados e testes. Busco evoluir com projetos incrementais, decisões técnicas justificadas e validação do comportamento esperado.
 
